@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-4th year undergraduate Computer Science student at the University of Toronto.
+I speak some computer languages and some human languages.
 <!--
 **inorrr/inorrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
